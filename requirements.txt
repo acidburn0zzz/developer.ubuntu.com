@@ -1,5 +1,5 @@
 canonicalwebteam.get-feeds==0.2.4
-django==1.11.20
+django==2.2.24
 dj-static==0.0.6
 django-versioned-static-url==0.8
 django-static-root-finder==0.3.1
